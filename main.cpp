@@ -1,11 +1,5 @@
 #include "Polynomial.h"
 
-/*
-    Navigate to ProjectFolder and run this
-    g++ main.cpp Polynomial.cpp -o main && ./main
-    Every feature is commented. so you can commented out to test
-*/
-
 int main()
 {
 
